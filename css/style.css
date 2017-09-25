@@ -1,3 +1,10 @@
+
+.greeting-highlight {
+   font-size:2em;
+   color:purple;
+   background-color:grey;
+}
+
 body,
 div,
 ul,
